@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "ma",
+        "apellido": "re",
+        "edad": "32",
+        "identificacion": "123456789"
+    },
+    {
+        "nombre": "diana",
+        "apellido": "rojas",
+        "edad": "13",
+        "identificacion": "123"
+    },
+    {
+        "nombre": "sofia",
+        "apellido": "rojas",
+        "edad": "98",
+        "identificacion": "654789"
+    },
+    {
+        "nombre": "maria",
+        "apellido": "perez",
+        "edad": "97",
+        "identificacion": "7894654"
+    },
+    {
+        "nombre": "juan",
+        "apellido": "sandone\u00f1o",
+        "edad": "17",
+        "identificacion": "852741"
+    }
+]
